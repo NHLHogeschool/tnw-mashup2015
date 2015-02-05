@@ -1,0 +1,21 @@
+html, body, #map {
+	height: 100%;
+	margin: 0;
+	width: 100%;
+}
+
+aside {
+	background: rgba(255,255,255, 0.6);
+	font: 75% "Helvetica Neue" sans-serif;
+	height: 100%;
+	left: 0;
+	overflow: auto;
+	padding: 20px;
+	position: fixed;
+	top: 0;
+	width: 300px;
+}
+
+aside h2 {
+	margin-top: 0;
+}
